@@ -1,5 +1,5 @@
 # FE-CS-Study
-since 2024.03.07 - 
+since 2024.03.07 - 2024.08.24
 
 ## About
 
